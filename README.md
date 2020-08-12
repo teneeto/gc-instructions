@@ -28,7 +28,7 @@ Make sure to practice while following the instructions, make sure you understand
 * create an ```index.html``` file.
 * if you're using [emmet](https://emmet.io/) then type ```html:5``` and press enter to create a html boilderplate.
 * create a folder, name it ```css``` and add a ```style.css``` file to it.
-* in your ```index.html``` add ```<link rel="stylesheet" href="style.css" />``` to your ```<head> </head>``` tag to link your ```style.css``` file to your ```index.html file.
+* in your ```index.html``` add ```<link rel="stylesheet" href="style.css" />``` to your ```<head> </head>``` tag to link your ```style.css``` file to your ```index.html``` file.
 * in your ```index.html``` change the title of your page to ```Google```. Within you ```<head> </head>``` tag. It should look like this ```<title>Google</title>```.
 
 ##### git Instructions
